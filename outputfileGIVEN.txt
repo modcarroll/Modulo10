@@ -1,0 +1,28 @@
+The mod 10 value of 5 Is 5
+
+The mod 10 value of (5) Is 5
+
+The mod 10 value of 3+4 Is 7
+
+The mod 10 value of 3*5 Is 5
+
+The mod 10 value of 5*(3+4) Is 5
+
+The mod 10 value of 3+4*5+6 Is 9
+
+The mod 10 value of 2*(((4+2))) Is 2
+
+The mod 10 value of 6+9*(5*(3+4)) Is 1
+
+The mod 10 value of 7*3+5*6 Is 1
+
+The mod 10 value of 1*2*3*4*5*6*7 Is 0
+
+The mod 10 value of (((((5))))) Is 5
+
+The mod 10 value of 1+2+3+4+5+6 Is 1
+
+The mod 10 value of (3*6+4)*(4+5*7) Is 8
+
+The mod 10 value of 3*((4+5*(1+6)+2)) Is 3
+
